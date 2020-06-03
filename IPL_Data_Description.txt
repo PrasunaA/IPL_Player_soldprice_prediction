@@ -1,0 +1,25 @@
+Age - 1 (less than 25)
+Age - 2 ( 25 - 35)
+Age - 3 (above 35)
+
+2. Runs-S - Num of runs scored by a player
+3. RUNS-C - runs conceded by a player
+4. HS - Highest score by a batsman in IPL
+5. AVE-B - Avg runs scored by a batsman
+6. AVE- BL - Bowling avg (nums of runs conceded/num of wickets taken) IPL
+7. SR-B - Batting strike rate (Ratio of num of runs scored to the number of balls faced) in IPL
+8. SR-BL - Bowling strike rate (ratio of num of balls bowled to the num of wickets taken) in IPL
+9. SIXERS - Num of six runs scored by a player in IPL
+10. WKTS - num of wickets taken by a player in IPL
+11. ECON - Economy rate of a bowler (num of runs conceded by the bowler per over) 
+12. CAPTAINCY EMP - Captained either a T20 team or a national team
+13. ODI-SR-B - Batting strike rate in 1 day internationals
+14. ODI-SR-BL - Bowling strike rate in 1 day internaltionals
+15. ODI-RUNS-S - Runs scored in 1 day internationals
+16. ODI- WKTS - Wickets taken in 1 day internationals
+17. T-RUNS-S - runs scored in test matches
+18. T-WKTS - Wickets taken in test matches
+19. PLAYER-SKILL  - Player's primary skill (batsman, bowler, or allrounder)
+20. COUNTRY - country of origin (IND, ENG , AUS, SA, PAK etc)
+21. YEAR-A Year of auction in IPL
+22. IPL TEAM - Team for which player had played in the IPL. 
